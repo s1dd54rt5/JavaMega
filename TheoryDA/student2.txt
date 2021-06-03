@@ -1,0 +1,4 @@
+Reg: 19BCE0370
+Name: Siddharth
+Phone: 9909666900
+CGPA: 8.81
